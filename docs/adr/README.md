@@ -15,7 +15,7 @@ Dhruv Patel, Vansh Goyal, Vasu Pambhar, Ethan Bayarsaikhan
 Mobile Application Development – CPRG-303-A
 
 ## Date
-May 2026
+June 2026
 
 
 ## Pre-Set Decisions (Given by the Course)
