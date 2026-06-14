@@ -3,7 +3,7 @@
 Accepted
 
 ## Date
-May 2026
+June 2026
 
 ## Decided By
 Dhruv, Vansh, Vasu, Ethan – decided together during our Phase 2 planning session
